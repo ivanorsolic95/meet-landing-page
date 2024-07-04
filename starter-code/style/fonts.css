@@ -1,0 +1,15 @@
+:root {
+    /* Font style */
+    --normal: normal;
+    /* Font family */
+    --red-hat-display: 'Red Hat Display', sans-serif;
+    /* Font weight */
+    --black: 900;
+    --medium: 500;
+    /* Line height */
+    --display-small: 2.75rem;
+    --body-large: 1.625rem;
+    --headline-medium: 2.25rem;
+    --display-medium: 3rem;
+    --display-large: 4rem;
+}
